@@ -4,5 +4,6 @@ Git is good.
 Git tracks changes again.
 Git end.
 Create a new branch dev.
-Creating a new master is quick and simple.
+Creating a new feature is quick and simple.
+
 
